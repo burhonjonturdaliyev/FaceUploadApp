@@ -1,0 +1,14 @@
+/Users/burkhonjonturdialiev/Desktop/FaceUploadApp/bin/Debug/net9.0/FaceUploadApp
+/Users/burkhonjonturdialiev/Desktop/FaceUploadApp/bin/Debug/net9.0/FaceUploadApp.deps.json
+/Users/burkhonjonturdialiev/Desktop/FaceUploadApp/bin/Debug/net9.0/FaceUploadApp.runtimeconfig.json
+/Users/burkhonjonturdialiev/Desktop/FaceUploadApp/bin/Debug/net9.0/FaceUploadApp.dll
+/Users/burkhonjonturdialiev/Desktop/FaceUploadApp/bin/Debug/net9.0/FaceUploadApp.pdb
+/Users/burkhonjonturdialiev/Desktop/FaceUploadApp/obj/Debug/net9.0/FaceUploadApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burkhonjonturdialiev/Desktop/FaceUploadApp/obj/Debug/net9.0/FaceUploadApp.AssemblyInfoInputs.cache
+/Users/burkhonjonturdialiev/Desktop/FaceUploadApp/obj/Debug/net9.0/FaceUploadApp.AssemblyInfo.cs
+/Users/burkhonjonturdialiev/Desktop/FaceUploadApp/obj/Debug/net9.0/FaceUploadApp.csproj.CoreCompileInputs.cache
+/Users/burkhonjonturdialiev/Desktop/FaceUploadApp/obj/Debug/net9.0/FaceUploadApp.dll
+/Users/burkhonjonturdialiev/Desktop/FaceUploadApp/obj/Debug/net9.0/refint/FaceUploadApp.dll
+/Users/burkhonjonturdialiev/Desktop/FaceUploadApp/obj/Debug/net9.0/FaceUploadApp.pdb
+/Users/burkhonjonturdialiev/Desktop/FaceUploadApp/obj/Debug/net9.0/FaceUploadApp.genruntimeconfig.cache
+/Users/burkhonjonturdialiev/Desktop/FaceUploadApp/obj/Debug/net9.0/ref/FaceUploadApp.dll
