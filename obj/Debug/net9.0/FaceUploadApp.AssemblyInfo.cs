@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FaceUploadApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b6cc3bd0429a827362ab5d675e3def015281794")]
 [assembly: System.Reflection.AssemblyProductAttribute("FaceUploadApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FaceUploadApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

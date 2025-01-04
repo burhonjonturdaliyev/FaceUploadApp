@@ -22,7 +22,7 @@ class Program
         };
 
         string faceDataJson = System.Text.Json.JsonSerializer.Serialize(faceData);
-        string imagePath = "bb.jpg";
+        // string imagePath = "bb.jpg";
 
         using (HttpClientHandler handler = new HttpClientHandler { Credentials = new NetworkCredential(username, password) })
         using (HttpClient client = new HttpClient(handler))
@@ -34,10 +34,10 @@ class Program
                 content.Add(jsonContent, "FaceDataRecord");
 
                 // Add image part
-                byte[] imageBytes = File.ReadAllBytes(imagePath);
-                var imageContent = new ByteArrayContent(imageBytes);
-                imageContent.Headers.ContentType = MediaTypeHeaderValue.Parse("image/jpeg");
-                content.Add(imageContent, "FaceImage", Path.GetFileName(imagePath));
+                // byte[] imageBytes = File.ReadAllBytes(imagePath);
+                // var imageContent = new ByteArrayContent(imageBytes);
+                // imageContent.Headers.ContentType = MediaTypeHeaderValue.Parse("image/jpeg");
+                // content.Add(imageContent, "FaceImage", Path.GetFileName(imagePath));
 
                 try
                 {
